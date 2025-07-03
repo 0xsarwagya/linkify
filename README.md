@@ -40,15 +40,15 @@ Check out the tutorial to see how this link management system was built: [Watch 
 To run Linkify locally, follow these steps:
 
 1. Clone the repository:
-    ```bash
+    \`\`\`bash
     git clone https://github.com/Shreyas-29/linkify.git
-    ```
+    \`\`\`
 2. Install dependencies:
-    ```bash
+    \`\`\`bash
     npm install
-    ```
+    \`\`\`
 3. Set up environment variables in a `.env` file:
-    ```
+    \`\`\`
    # app
     NEXT_PUBLIC_APP_DOMAIN=
     NEXT_PUBLIC_APP_NAME=
@@ -59,12 +59,12 @@ To run Linkify locally, follow these steps:
 
     # database
     DATABASE_URL=
-    ```
+    \`\`\`
 
 4. Run the development server:
-    ```bash
+    \`\`\`bash
     npm run dev
-    ```
+    \`\`\`
 
 ## ☕ Buy Me a Coffee
 If you enjoy using Linkify, consider supporting my work!  
